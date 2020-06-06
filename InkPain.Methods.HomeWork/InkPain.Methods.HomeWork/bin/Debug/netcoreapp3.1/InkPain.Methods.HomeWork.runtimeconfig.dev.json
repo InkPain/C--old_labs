@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ink_pain\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ink_pain\\.nuget\\packages"
+    ]
+  }
+}

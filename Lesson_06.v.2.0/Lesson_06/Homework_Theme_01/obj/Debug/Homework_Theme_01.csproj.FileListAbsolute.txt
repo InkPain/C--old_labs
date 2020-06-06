@@ -1,0 +1,12 @@
+D:\программирование\C#\skillbox\Lesson_06.v.1.0\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\Lesson_06.v.1.0\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe.config
+D:\программирование\C#\skillbox\Lesson_06.v.1.0\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe
+D:\программирование\C#\skillbox\Lesson_06.v.1.0\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.pdb
+D:\программирование\C#\skillbox\Lesson_06.v.1.0\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.exe
+D:\программирование\C#\skillbox\Lesson_06.v.1.0\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.pdb
+D:\программирование\C#\skillbox\Lesson_06.v.2.0\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe.config
+D:\программирование\C#\skillbox\Lesson_06.v.2.0\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe
+D:\программирование\C#\skillbox\Lesson_06.v.2.0\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.pdb
+D:\программирование\C#\skillbox\Lesson_06.v.2.0\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\Lesson_06.v.2.0\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.exe
+D:\программирование\C#\skillbox\Lesson_06.v.2.0\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.pdb

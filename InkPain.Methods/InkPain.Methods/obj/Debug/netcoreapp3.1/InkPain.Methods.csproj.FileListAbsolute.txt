@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\bin\Debug\netcoreapp3.1\InkPain.Methods.exe
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\bin\Debug\netcoreapp3.1\InkPain.Methods.deps.json
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\bin\Debug\netcoreapp3.1\InkPain.Methods.runtimeconfig.json
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\bin\Debug\netcoreapp3.1\InkPain.Methods.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\bin\Debug\netcoreapp3.1\InkPain.Methods.dll
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\bin\Debug\netcoreapp3.1\InkPain.Methods.pdb
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\obj\Debug\netcoreapp3.1\InkPain.Methods.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\obj\Debug\netcoreapp3.1\InkPain.Methods.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\obj\Debug\netcoreapp3.1\InkPain.Methods.AssemblyInfo.cs
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\obj\Debug\netcoreapp3.1\InkPain.Methods.dll
+D:\программирование\C#\skillbox\InkPain.Methods\InkPain.Methods\obj\Debug\netcoreapp3.1\InkPain.Methods.pdb

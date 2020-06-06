@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\bin\Debug\netcoreapp3.1\inkPain.Arrays.exe
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\bin\Debug\netcoreapp3.1\inkPain.Arrays.deps.json
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\bin\Debug\netcoreapp3.1\inkPain.Arrays.runtimeconfig.json
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\bin\Debug\netcoreapp3.1\inkPain.Arrays.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\bin\Debug\netcoreapp3.1\inkPain.Arrays.dll
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\bin\Debug\netcoreapp3.1\inkPain.Arrays.pdb
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\obj\Debug\netcoreapp3.1\inkPain.Arrays.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\obj\Debug\netcoreapp3.1\inkPain.Arrays.AssemblyInfo.cs
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\obj\Debug\netcoreapp3.1\inkPain.Arrays.dll
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\obj\Debug\netcoreapp3.1\inkPain.Arrays.pdb
+D:\программирование\C#\skillbox\inkPain.Arrays\inkPain.Arrays\obj\Debug\netcoreapp3.1\inkPain.Arrays.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\bin\Debug\netcoreapp3.1\InkPain.OOP.exe
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\bin\Debug\netcoreapp3.1\InkPain.OOP.deps.json
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\bin\Debug\netcoreapp3.1\InkPain.OOP.runtimeconfig.json
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\bin\Debug\netcoreapp3.1\InkPain.OOP.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\bin\Debug\netcoreapp3.1\InkPain.OOP.dll
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\bin\Debug\netcoreapp3.1\InkPain.OOP.pdb
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\obj\Debug\netcoreapp3.1\InkPain.OOP.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\obj\Debug\netcoreapp3.1\InkPain.OOP.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\obj\Debug\netcoreapp3.1\InkPain.OOP.AssemblyInfo.cs
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\obj\Debug\netcoreapp3.1\InkPain.OOP.dll
+D:\программирование\C#\skillbox\InkPain.OOP\InkPain.OOP\obj\Debug\netcoreapp3.1\InkPain.OOP.pdb

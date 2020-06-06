@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\bin\Debug\netcoreapp3.1\inkPain.Cycles.exe
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\bin\Debug\netcoreapp3.1\inkPain.Cycles.deps.json
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\bin\Debug\netcoreapp3.1\inkPain.Cycles.runtimeconfig.json
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\bin\Debug\netcoreapp3.1\inkPain.Cycles.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\bin\Debug\netcoreapp3.1\inkPain.Cycles.dll
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\bin\Debug\netcoreapp3.1\inkPain.Cycles.pdb
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\obj\Debug\netcoreapp3.1\inkPain.Cycles.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\obj\Debug\netcoreapp3.1\inkPain.Cycles.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\obj\Debug\netcoreapp3.1\inkPain.Cycles.AssemblyInfo.cs
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\obj\Debug\netcoreapp3.1\inkPain.Cycles.dll
+D:\программирование\C#\skillbox\inkPain.Cycles\inkPain.Cycles\obj\Debug\netcoreapp3.1\inkPain.Cycles.pdb

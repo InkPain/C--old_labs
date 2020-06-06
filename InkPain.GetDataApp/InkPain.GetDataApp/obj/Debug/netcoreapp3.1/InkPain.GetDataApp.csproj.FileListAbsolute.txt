@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\bin\Debug\netcoreapp3.1\InkPain.GetDataApp.exe
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\bin\Debug\netcoreapp3.1\InkPain.GetDataApp.deps.json
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\bin\Debug\netcoreapp3.1\InkPain.GetDataApp.runtimeconfig.json
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\bin\Debug\netcoreapp3.1\InkPain.GetDataApp.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\bin\Debug\netcoreapp3.1\InkPain.GetDataApp.dll
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\bin\Debug\netcoreapp3.1\InkPain.GetDataApp.pdb
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\obj\Debug\netcoreapp3.1\InkPain.GetDataApp.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\obj\Debug\netcoreapp3.1\InkPain.GetDataApp.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\obj\Debug\netcoreapp3.1\InkPain.GetDataApp.AssemblyInfo.cs
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\obj\Debug\netcoreapp3.1\InkPain.GetDataApp.dll
+D:\программирование\C#\skillbox\InkPain.GetDataApp\InkPain.GetDataApp\obj\Debug\netcoreapp3.1\InkPain.GetDataApp.pdb

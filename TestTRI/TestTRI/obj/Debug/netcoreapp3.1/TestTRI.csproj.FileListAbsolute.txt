@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\TestTRI\TestTRI\bin\Debug\netcoreapp3.1\TestTRI.exe
+D:\программирование\C#\skillbox\TestTRI\TestTRI\bin\Debug\netcoreapp3.1\TestTRI.deps.json
+D:\программирование\C#\skillbox\TestTRI\TestTRI\bin\Debug\netcoreapp3.1\TestTRI.runtimeconfig.json
+D:\программирование\C#\skillbox\TestTRI\TestTRI\bin\Debug\netcoreapp3.1\TestTRI.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\TestTRI\TestTRI\bin\Debug\netcoreapp3.1\TestTRI.dll
+D:\программирование\C#\skillbox\TestTRI\TestTRI\bin\Debug\netcoreapp3.1\TestTRI.pdb
+D:\программирование\C#\skillbox\TestTRI\TestTRI\obj\Debug\netcoreapp3.1\TestTRI.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\TestTRI\TestTRI\obj\Debug\netcoreapp3.1\TestTRI.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\TestTRI\TestTRI\obj\Debug\netcoreapp3.1\TestTRI.AssemblyInfo.cs
+D:\программирование\C#\skillbox\TestTRI\TestTRI\obj\Debug\netcoreapp3.1\TestTRI.dll
+D:\программирование\C#\skillbox\TestTRI\TestTRI\obj\Debug\netcoreapp3.1\TestTRI.pdb

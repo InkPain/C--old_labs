@@ -1,0 +1,6 @@
+D:\программирование\C#\skillbox\4.8 Homework_Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\4.8 Homework_Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe.config
+D:\программирование\C#\skillbox\4.8 Homework_Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.exe
+D:\программирование\C#\skillbox\4.8 Homework_Theme_04\Homework_Theme_04\bin\Debug\Homework_Theme_04.pdb
+D:\программирование\C#\skillbox\4.8 Homework_Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.exe
+D:\программирование\C#\skillbox\4.8 Homework_Theme_04\Homework_Theme_04\obj\Debug\Homework_Theme_04.pdb

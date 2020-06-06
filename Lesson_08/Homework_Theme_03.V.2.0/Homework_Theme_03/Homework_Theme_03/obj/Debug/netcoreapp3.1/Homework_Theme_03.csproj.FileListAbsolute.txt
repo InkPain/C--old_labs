@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\bin\Debug\netcoreapp3.1\Homework_Theme_03.exe
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\bin\Debug\netcoreapp3.1\Homework_Theme_03.deps.json
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\bin\Debug\netcoreapp3.1\Homework_Theme_03.runtimeconfig.json
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\bin\Debug\netcoreapp3.1\Homework_Theme_03.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\bin\Debug\netcoreapp3.1\Homework_Theme_03.dll
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\bin\Debug\netcoreapp3.1\Homework_Theme_03.pdb
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\obj\Debug\netcoreapp3.1\Homework_Theme_03.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\obj\Debug\netcoreapp3.1\Homework_Theme_03.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\obj\Debug\netcoreapp3.1\Homework_Theme_03.AssemblyInfo.cs
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\obj\Debug\netcoreapp3.1\Homework_Theme_03.dll
+D:\программирование\C#\skillbox\Lesson_08\HomeworkTheme_03.V.2.0\Homework_Theme_03\Homework_Theme_03\obj\Debug\netcoreapp3.1\Homework_Theme_03.pdb

@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\bin\Debug\netcoreapp3.1\inkPainFetchOrerator.exe
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\bin\Debug\netcoreapp3.1\inkPainFetchOrerator.deps.json
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\bin\Debug\netcoreapp3.1\inkPainFetchOrerator.runtimeconfig.json
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\bin\Debug\netcoreapp3.1\inkPainFetchOrerator.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\bin\Debug\netcoreapp3.1\inkPainFetchOrerator.dll
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\bin\Debug\netcoreapp3.1\inkPainFetchOrerator.pdb
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\obj\Debug\netcoreapp3.1\inkPainFetchOrerator.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\obj\Debug\netcoreapp3.1\inkPainFetchOrerator.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\obj\Debug\netcoreapp3.1\inkPainFetchOrerator.AssemblyInfo.cs
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\obj\Debug\netcoreapp3.1\inkPainFetchOrerator.dll
+D:\программирование\C#\skillbox\inkPainFetchOrerator\inkPainFetchOrerator\obj\Debug\netcoreapp3.1\inkPainFetchOrerator.pdb

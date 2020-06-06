@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\obj\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\obj\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\obj\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.AssemblyInfo.cs
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\bin\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.exe
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\bin\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.deps.json
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\bin\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.runtimeconfig.json
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\bin\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\bin\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.dll
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\bin\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.pdb
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\obj\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.dll
+D:\программирование\C#\skillbox\InkPain.Methods.HomeWork\InkPain.Methods.HomeWork\obj\Debug\netcoreapp3.1\InkPain.Methods.HomeWork.pdb

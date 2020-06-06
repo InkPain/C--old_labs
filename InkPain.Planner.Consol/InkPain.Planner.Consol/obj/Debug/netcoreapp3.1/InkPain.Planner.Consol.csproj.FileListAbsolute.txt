@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\bin\Debug\netcoreapp3.1\InkPain.Planner.Consol.exe
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\bin\Debug\netcoreapp3.1\InkPain.Planner.Consol.deps.json
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\bin\Debug\netcoreapp3.1\InkPain.Planner.Consol.runtimeconfig.json
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\bin\Debug\netcoreapp3.1\InkPain.Planner.Consol.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\bin\Debug\netcoreapp3.1\InkPain.Planner.Consol.dll
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\bin\Debug\netcoreapp3.1\InkPain.Planner.Consol.pdb
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\obj\Debug\netcoreapp3.1\InkPain.Planner.Consol.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\obj\Debug\netcoreapp3.1\InkPain.Planner.Consol.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\obj\Debug\netcoreapp3.1\InkPain.Planner.Consol.AssemblyInfo.cs
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\obj\Debug\netcoreapp3.1\InkPain.Planner.Consol.dll
+D:\программирование\C#\skillbox\InkPain.Planner.Consol\InkPain.Planner.Consol\obj\Debug\netcoreapp3.1\InkPain.Planner.Consol.pdb

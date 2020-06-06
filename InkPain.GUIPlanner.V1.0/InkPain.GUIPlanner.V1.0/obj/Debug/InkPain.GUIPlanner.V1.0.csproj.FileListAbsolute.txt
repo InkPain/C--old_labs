@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\bin\Debug\PlannerDB.mdf
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\bin\Debug\PlannerDB_log.ldf
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\bin\Debug\InkPain.GUIPlanner.V1.0.exe.config
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\bin\Debug\InkPain.GUIPlanner.V1.0.exe
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\bin\Debug\InkPain.GUIPlanner.V1.0.pdb
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\obj\Debug\InkPain.GUIPlanner.V1.0.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\obj\Debug\InkPain.GUIPlanner.V1._0.Form1.resources
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\obj\Debug\InkPain.GUIPlanner.V1._0.Properties.Resources.resources
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\obj\Debug\InkPain.GUIPlanner.V1.0.csproj.GenerateResource.cache
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\obj\Debug\InkPain.GUIPlanner.V1.0.exe
+D:\программирование\C#\skillbox\InkPain.GUIPlanner.V1.0\InkPain.GUIPlanner.V1.0\obj\Debug\InkPain.GUIPlanner.V1.0.pdb

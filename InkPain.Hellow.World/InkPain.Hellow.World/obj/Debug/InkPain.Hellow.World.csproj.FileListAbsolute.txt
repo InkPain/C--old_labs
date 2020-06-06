@@ -1,0 +1,6 @@
+D:\программирование\C#\skillbox\InkPain.Hellow.World\InkPain.Hellow.World\bin\Debug\InkPain.Hellow.World.exe.config
+D:\программирование\C#\skillbox\InkPain.Hellow.World\InkPain.Hellow.World\bin\Debug\InkPain.Hellow.World.exe
+D:\программирование\C#\skillbox\InkPain.Hellow.World\InkPain.Hellow.World\bin\Debug\InkPain.Hellow.World.pdb
+D:\программирование\C#\skillbox\InkPain.Hellow.World\InkPain.Hellow.World\obj\Debug\InkPain.Hellow.World.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.Hellow.World\InkPain.Hellow.World\obj\Debug\InkPain.Hellow.World.exe
+D:\программирование\C#\skillbox\InkPain.Hellow.World\InkPain.Hellow.World\obj\Debug\InkPain.Hellow.World.pdb

@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\bin\Debug\netcoreapp3.1\inkPain.LogicalOperators.exe
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\bin\Debug\netcoreapp3.1\inkPain.LogicalOperators.deps.json
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\bin\Debug\netcoreapp3.1\inkPain.LogicalOperators.runtimeconfig.json
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\bin\Debug\netcoreapp3.1\inkPain.LogicalOperators.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\bin\Debug\netcoreapp3.1\inkPain.LogicalOperators.dll
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\bin\Debug\netcoreapp3.1\inkPain.LogicalOperators.pdb
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\obj\Debug\netcoreapp3.1\inkPain.LogicalOperators.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\obj\Debug\netcoreapp3.1\inkPain.LogicalOperators.AssemblyInfo.cs
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\obj\Debug\netcoreapp3.1\inkPain.LogicalOperators.dll
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\obj\Debug\netcoreapp3.1\inkPain.LogicalOperators.pdb
+D:\программирование\C#\skillbox\inkPain.LogicalOperators\inkPain.LogicalOperators\obj\Debug\netcoreapp3.1\inkPain.LogicalOperators.csprojAssemblyReference.cache

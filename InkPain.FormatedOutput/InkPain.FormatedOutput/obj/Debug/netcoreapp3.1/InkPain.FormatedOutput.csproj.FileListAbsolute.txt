@@ -1,0 +1,11 @@
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\bin\Debug\netcoreapp3.1\InkPain.FormatedOutput.exe
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\bin\Debug\netcoreapp3.1\InkPain.FormatedOutput.deps.json
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\bin\Debug\netcoreapp3.1\InkPain.FormatedOutput.runtimeconfig.json
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\bin\Debug\netcoreapp3.1\InkPain.FormatedOutput.runtimeconfig.dev.json
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\bin\Debug\netcoreapp3.1\InkPain.FormatedOutput.dll
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\bin\Debug\netcoreapp3.1\InkPain.FormatedOutput.pdb
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\obj\Debug\netcoreapp3.1\InkPain.FormatedOutput.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\obj\Debug\netcoreapp3.1\InkPain.FormatedOutput.AssemblyInfoInputs.cache
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\obj\Debug\netcoreapp3.1\InkPain.FormatedOutput.AssemblyInfo.cs
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\obj\Debug\netcoreapp3.1\InkPain.FormatedOutput.dll
+D:\программирование\C#\skillbox\InkPain.FormatedOutput\InkPain.FormatedOutput\obj\Debug\netcoreapp3.1\InkPain.FormatedOutput.pdb

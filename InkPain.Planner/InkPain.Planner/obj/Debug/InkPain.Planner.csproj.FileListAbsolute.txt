@@ -1,0 +1,9 @@
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\bin\Debug\InkPain.Planner.exe.config
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\bin\Debug\InkPain.Planner.exe
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\bin\Debug\InkPain.Planner.pdb
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\obj\Debug\InkPain.Planner.csprojAssemblyReference.cache
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\obj\Debug\InkPain.Planner.Form1.resources
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\obj\Debug\InkPain.Planner.Properties.Resources.resources
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\obj\Debug\InkPain.Planner.csproj.GenerateResource.cache
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\obj\Debug\InkPain.Planner.exe
+D:\программирование\C#\skillbox\InkPain.Planner\InkPain.Planner\obj\Debug\InkPain.Planner.pdb
